@@ -13,5 +13,10 @@ e1 = Employee("Rajnish", 38)
 e1 = Employee("Bubu", 35)
 e1 = Employee("Dudu", 38)
 e1 = Employee("Dudu", 100)
+e1 = Employee("Dudu", 1000)
+
+
+
+
 
 
